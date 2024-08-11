@@ -1,3 +1,13 @@
+---
+title: EggSurvival Server
+published: 2024-08-04
+description: EggSurvival Server.
+image: /images/cover.jpg
+tags: [Minecraft, Server]
+category: Front-end
+draft: false
+---
+
 <div align="center">
 <img align="left" src="https://github.com/XianDHP/xiandhp.github.io/blob/main/favicon.png?raw=true" width="40" heiget="40"></img>
 <h1>欢迎来到EggSurvival Server!</h1>
