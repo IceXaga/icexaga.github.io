@@ -4,7 +4,7 @@ published: 2024-08-04
 description: EggSurvival Server.
 image: /images/cover.jpg
 tags: [Minecraft, Server]
-category: Front-end
+category: 游戏
 draft: false
 ---
 
