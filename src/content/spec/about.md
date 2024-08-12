@@ -1,6 +1,12 @@
-# About
+# 关于
 
-### 模板源码: 
+### Me
+#### 我的[Github](https://github.com/IceXaga)主页
+
+> ### 使用的资源:
+> - [Fuwari主题](https://github.com/saicaca/fuwari)
+
+
+### 源码: 
 ::github{repo="saicaca/fuwari"}
-### 本站源码: 
 ::github{repo="icexaga/icexaga.github.io"}
