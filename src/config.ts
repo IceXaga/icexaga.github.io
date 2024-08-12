@@ -52,11 +52,11 @@ export const profileConfig: ProfileConfig = {
   bio: 'qwq',
   links: [
     {
-      name: 'Twitter',
-      icon: 'fa6-brands:twitter',       // Visit https://icones.js.org/ for icon codes
-                                        // You will need to install the corresponding icon set if it's not already included
+      name: 'Bilibili',
+      icon: 'fa6-brands:bilibili',       // Visit https://icones.js.org/ for icon codes
+      url: 'https://space.bilibili.com/409605133',      // You will need to install the corresponding icon set if it's not already included
                                         // `pnpm add @iconify-json/<icon-set-name>`
-      url: 'https://twitter.com',
+      
     },
     {
       name: 'Steam',
@@ -68,6 +68,11 @@ export const profileConfig: ProfileConfig = {
       icon: 'fa6-brands:github',
       url: 'https://github.com/icexaga',
     },
+    {
+      name: 'email',
+      icon: "material-symbols:mail",
+      url: 'tomail:xuteee@outlook.com'
+    }
   ],
 }
 
