@@ -5,7 +5,7 @@ description: EggSurvival Server.
 image: /images/cover.jpg
 tags: [Minecraft, Server]
 category: 游戏
-draft: true
+draft: false
 ---
 
 <div align="center">
