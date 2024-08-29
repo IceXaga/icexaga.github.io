@@ -35,9 +35,9 @@ draft: false
 
 ### 加入我们
 #### QQ群:[438338988](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=BfqvExMUQoDG3PeCt71PYUj3cjxN_rfn&authKey=O435nlMgqRiQ%2F%2B7fQzAAUZMfvxoADr6RccZJFCc40ZtuaOw6DRJcx3%2Fo7WfB9DVI&noverify=0&group_code=438338988)
-#### 服务器官网：[homo.xdhplqg.top](https://homo.xdhplqg.top)
-#### 服务器IP:`xdhplqg.top`
-#### 基岩版IP:`xdhplqg.top`Port:`19132`
+#### 服务器官网：[homo.ess.icu](homo.ess.icu)
+#### 服务器IP:`mc.ess.icu`Port:`32360`(`mc.ess.icu:32360`,`103.40.13.87:32360`)
+#### 基岩版IP:`xdhplqg.top`Port:`15316`(`103.40.13.87`Port:`15316`)
 
 >[!TIP]
 > (遇到任何问题都可以随时骚扰腐竹)
